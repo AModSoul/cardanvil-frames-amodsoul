@@ -18,7 +18,14 @@ export const boxes: CardBoxes = {
 
   mana: { x: 370, y: 410, width: 2536, height: 177, fontSize: 55 },
   title: { x: 390, y: 420, width: 2540, height: 172, fontSize: 120 },
-  type: { x: 410, y: 2500, width: 2500, height: 170, fontSize: 106, color: "white" },
+  type: {
+    x: 410,
+    y: 2500,
+    width: 2500,
+    height: 170,
+    fontSize: 106,
+    color: "white",
+  },
 
   setSymbol: { x: 2544, y: 2490, width: 300, height: 175 },
 
@@ -35,7 +42,14 @@ export const boxes: CardBoxes = {
   },
 
   /** Only drawn on cards that have power and toughness. */
-  pt: { x: 2456, y: 3826, width: 515, height: 271, fontSize: 116, color: "white" },
+  pt: {
+    x: 2456,
+    y: 3826,
+    width: 515,
+    height: 271,
+    fontSize: 116,
+    color: "white",
+  },
 
   /**
    * Where the pt frame asset is painted. The pt PNGs are full-canvas overlays
