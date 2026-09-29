@@ -1,9 +1,9 @@
 import { type Frame } from "@cardanvil/frame-kit";
 
 import * as base from "./base";
+import * as pt from "./base/pt";
 import { boxes } from "./boxes";
 import preview from "./preview.png";
-import * as pt from "./base/pt";
 
 /**
  * A working frame you can render today, so you can replace one thing at a time

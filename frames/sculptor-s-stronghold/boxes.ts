@@ -29,11 +29,11 @@ export const boxes: CardBoxes = {
 
   /** The artist line and set information along the bottom. */
   collectorInfo: {
-  x: 333,
-  y: 4015,
-  width: 2200,
-  height: 200,
-  fontSize: 50,
-  color: "white",
+    x: 333,
+    y: 4015,
+    width: 2200,
+    height: 200,
+    fontSize: 50,
+    color: "white",
   },
 };
