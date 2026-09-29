@@ -1,0 +1,10 @@
+{
+  "$schema": "../../node_modules/@cardanvil/frame-kit/schema/frame-meta.schema.json",
+  "id": "com.github.amodsoul.sculptor-s-stronghold",
+  "entry": "./index.ts",
+  "export": "sculptorSStrongholdFrame",
+  "author": {
+    "name": "AModSoul"
+  },
+  "license": "CC-BY-4.0"
+}
