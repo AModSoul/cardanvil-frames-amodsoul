@@ -12,3 +12,5 @@ export { default as g } from "./g.png";
 export { default as m } from "./m.png";
 export { default as a } from "./a.png";
 export { default as l } from "./L.png";
+export { default as c } from "./a.png";
+export { default as v } from "./a.png";
